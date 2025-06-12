@@ -68,7 +68,7 @@ Contributions are welcome! Please feel free to open an issue or pull request.
 To install in editable mode for development:
 ```bash
 # Clone the repository
-# git clone https://github.com/YOUR_USERNAME/iic-guard.git
+# git clone https://github.com/serhaturtis/iic-guard.git
 # cd iic-guard
 
 # Create venv and install in editable mode
