@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "iic-guard"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
   { name="Serhat Urtis", email="urtisms@gmail.com" },
 ]
 description = "A daemon to monitor and protect I2C device registers."
 readme = "README.md"
-license = { text = "MIT License" }
+license = "MIT"
 requires-python = ">=3.7"
 classifiers = [
     "Programming Language :: Python :: 3",
